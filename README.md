@@ -1,0 +1,2 @@
+# ajax
+Some ajax requests
